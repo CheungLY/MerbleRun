@@ -41,30 +41,30 @@ What I have been able to do:
 - Using dimensions
 
 2Point:
-![Screenshot 2026-10-14 233241](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/e14a24adbfd67eb4f0bd1d08bb172c71a8c402a6c5c556bce03563b7d75b14a4.png)
+![Screenshot 2026-10-14 233241](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/e14a24adbfd67eb4f0bd1d08bb172c71a8c402a6c5c556bce03563b7d75b14a4.png)
 
 Centred:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/e85bfb48a047114b4559cd280225782534779112b86c9841f3b804fea1cc2941.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/e85bfb48a047114b4559cd280225782534779112b86c9841f3b804fea1cc2941.png)
 
 Aligned:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/757f2bbbc4a0dbf69d8cb781da92e54daf1fc210e8dfc4bde5109ac8960627da.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/757f2bbbc4a0dbf69d8cb781da92e54daf1fc210e8dfc4bde5109ac8960627da.png)
 
 Using Dimensions:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/26659a11f1dd2f76095b8d3a336e2cf5199557bcc85342b427f20d0a22bae1c8.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/26659a11f1dd2f76095b8d3a336e2cf5199557bcc85342b427f20d0a22bae1c8.png)
 
 I also learnt about how to develop circles in each of these planes:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/f25ff0a5958b6b40dcbc83e74d4fa53e8d225abe3124e4ad33003969918b73d8.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/f25ff0a5958b6b40dcbc83e74d4fa53e8d225abe3124e4ad33003969918b73d8.png)
 
 In 3 point circles, centre point circles:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/d44c0176811702a02c81df1e004a40b50a6ab14e58a197ca9b9c46396be31417.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/d44c0176811702a02c81df1e004a40b50a6ab14e58a197ca9b9c46396be31417.png)
 
 And used dimension to edit it:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/0341ad3d57b7819a3a061ea0920115400cae5c91ffd62cce4f2663a934f918e5.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/0341ad3d57b7819a3a061ea0920115400cae5c91ffd62cce4f2663a934f918e5.png)
 
 I also then learnt to devlop splines:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/f88133200bf220c571b236acd5844eeb7250813e7bc996fa8665f71591e719e0.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/f88133200bf220c571b236acd5844eeb7250813e7bc996fa8665f71591e719e0.png)
 
 ### 2026-10-15 – I started off my day by continuing to learn about how to use onshape.
 
@@ -73,17 +73,17 @@ I also then learnt to devlop splines:
 I started off my day by continuing to learn about how to use onshape.
 
 Here I learnt to extrude 3D models:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/8bc2731145107a4077206aa94fb1dc724ce406195a5695d61483ba9327677bdb.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/8bc2731145107a4077206aa94fb1dc724ce406195a5695d61483ba9327677bdb.png)
 
 I then learnt to build new planes based on points and model the profile of the merble track path using point circles and the dimensions tool:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/6cd0514f82eb91e5ba9a169dc426059722239cd5c959886a93a19752873eb0f0.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/6cd0514f82eb91e5ba9a169dc426059722239cd5c959886a93a19752873eb0f0.png)
 
 By using the trim tool:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/2410eed1a02a364be8fa5b196c107444211407fd22c0cefc7ebe99d5ba685bf9.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/2410eed1a02a364be8fa5b196c107444211407fd22c0cefc7ebe99d5ba685bf9.png)
 
 Tube is now built.
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/796322f8188a0088661107925ef2bd0c2a0a54b9ecd74601bc541cd8031054c6.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/796322f8188a0088661107925ef2bd0c2a0a54b9ecd74601bc541cd8031054c6.png)
 
 ### 2026-10-15 – This session, I learnt how to develop the path for my marble to be able to go down.
 
@@ -93,18 +93,18 @@ This session, I learnt how to develop the path for my marble to be able to go do
 
 The first method is using a fillet method:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/1178bc16d80f50e1dc5c98565a24866da54f5e27391a2986a456ba966c276199.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/1178bc16d80f50e1dc5c98565a24866da54f5e27391a2986a456ba966c276199.png)
 
 I was then able to do the same using another method by using the lines and radius of circles
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/080f1dc1e0d6ab5e5ae4a31b6c40ddad1bc89d2e51d3166759ef46bed38bd4ad.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/080f1dc1e0d6ab5e5ae4a31b6c40ddad1bc89d2e51d3166759ef46bed38bd4ad.png)
 
 After sweeping this is my outcome.
 
 Now I know how to devlop the marble run basic path and profile for these paths.
 
 This part of making a plinko using aligned rectangles confused me the most. I couldn't figure out how to be able to keep the dimensions correct and makes the lengths 3mm by 3mm. Thankfully I figured out what the coincedent function did, and learnt to be able to use the alligned rectangles:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/1aac0c3583f6fb89fbfc45073d8ad0909792a3e380faa27122599f84b5a14de7.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/1aac0c3583f6fb89fbfc45073d8ad0909792a3e380faa27122599f84b5a14de7.png)
 
 ### 2026-10-15 – This documents the development of the Plinko:
 
@@ -113,32 +113,32 @@ This part of making a plinko using aligned rectangles confused me the most. I co
 This documents the development of the Plinko:
 
 Stage 1:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/7d3ccee777af92f157b60c721fecb392fd672c0b0df56546df72b26aa8614603.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/7d3ccee777af92f157b60c721fecb392fd672c0b0df56546df72b26aa8614603.png)
 
 Stage 2:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/c9d56fa050dcae18f4b76715390dc0e9f045535df8a26ccd9507914e7d71db83.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/c9d56fa050dcae18f4b76715390dc0e9f045535df8a26ccd9507914e7d71db83.png)
 
 Stage 3:
 The tutorial used different measurements to me here, so I used maths to find their midpoints. Knowledge of trigonometry already led me to know that the length between diagonals of the square was root2 * side length hence 3root2. Then using the length of between the bottom 2 points as 17, I used the midpoint of line below  ((17 + (3root2 / 2)) / 2) and took away half a square (3root2 / 2) which gave me roughly 9.56mm (3sf) for the lengths from the side
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/1f80f57d442f7caf1145e8e2cae2271c029047e73513ffb6852005b738d6e643.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/1f80f57d442f7caf1145e8e2cae2271c029047e73513ffb6852005b738d6e643.png)
 
 Stage 4:
 
 Here is just me mirroring my design and making more modules
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/954ac70f99204df48d19c9bee5972d34878c1d40e5120710294c55f5f9546380.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/954ac70f99204df48d19c9bee5972d34878c1d40e5120710294c55f5f9546380.png)
 
 Stage 5:
 This is me developing boundraries to the Plinko and trimming unnecesary sections a bit
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/a511c520a02921196b26328f893648b34043c11090c8b6c58b91e6fc7a27cf6b.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/a511c520a02921196b26328f893648b34043c11090c8b6c58b91e6fc7a27cf6b.png)
 
 Stage 6:
 I realised that I needed to trim more for the extruding to be easier.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/dc839e7f67ce3baccf62987b1da17b076086ebea5f5015ae2e5c10ad2b28346a.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/dc839e7f67ce3baccf62987b1da17b076086ebea5f5015ae2e5c10ad2b28346a.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/45927bb8db451bd59ef3a6a7355b20ace5fa69dca935838cbd052046025effee.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/45927bb8db451bd59ef3a6a7355b20ace5fa69dca935838cbd052046025effee.png)
 
 This is the finished rendered Plinko.
 
@@ -153,22 +153,22 @@ First Structure I am going to build is a staricase track using the guide:
 Stage1:
 I started off by making one end of the staricase and using the dimensions tool to make my first few steps a and used dimension tool to set the heights of the steps as 5.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/c87da5a5cafcf5cadcc42eda50bcc95c177746783156270c7ea7dd161afcd1bd.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/c87da5a5cafcf5cadcc42eda50bcc95c177746783156270c7ea7dd161afcd1bd.png)
 
 Stage2:
 Copying and pasting and using the Coincedent tool allowed me to build the rest of the staircase.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/13838a992de94ab5adb2d98cb5b621bf1e916c82cfb2647f7a408e4eabf0d1ee.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/13838a992de94ab5adb2d98cb5b621bf1e916c82cfb2647f7a408e4eabf0d1ee.png)
 
 Stage 3:
 Here I finished the end section of the staircase and built the 3mm casing on the outisde. While doing this I realised that i had to add an extra 5mm at the end so that the casing would not slip into the structure itself.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/b61623598768342340d58d5c5d5f3ff4e240ccb6d6e863bb3d1e46b5454040ff.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/b61623598768342340d58d5c5d5f3ff4e240ccb6d6e863bb3d1e46b5454040ff.png)
 
 Stage 4:
 I then had to extrude the sides to be able to build the structure. Here I learnt about using offset extrusions, so that I would be able to start the structure a bit further out. Thankfully this worked and so now I have this:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/4c4797d977fe47bafe329d7b0e87bcb1719189fb0fa2443e8429116d95c31757.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/4c4797d977fe47bafe329d7b0e87bcb1719189fb0fa2443e8429116d95c31757.png)
 
 ### 2026-10-17 – This Journal entry is about developing a funnel:
 
@@ -179,22 +179,22 @@ This Journal entry is about developing a funnel:
 Stage 1: (Build the chute)
 I didn't do much here, but in developing the chute, I had to measure out the diameter of the chute I wanted. To do this I found marbles in my house, used a vernie caliper and measured out 13mm for the diameter of my ball. Knowing this, in the design I used 15 mm (13 for diameter 2mm for slack) for the diameter of the hole and thus 15/2 which is 7.5mm for the radius:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/b854e97b0e3c9579588c09f8bee0d93e8534960f03219fe93fbd06cc5af31c43.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/b854e97b0e3c9579588c09f8bee0d93e8534960f03219fe93fbd06cc5af31c43.png)
 
 Stage2:
 I developed the side of the funnel so that a ball wouldn't fall out. Because I couldn't seem to find the function to continue the straight line that was developed by the offset I used the fact I set the original angle at 110 degrees, to know the second one would be at 90degrees to the horizontal which I set my line. I then trimmed. There was also some filleting of the funnel entrance.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/feaa2c6489e4ad713d7912663536438c4739e6759e78eadbc42b26dc971943fb.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/feaa2c6489e4ad713d7912663536438c4739e6759e78eadbc42b26dc971943fb.png)
 
 Stage 3:
 After a bit more filleting (for fun and style), I revolved the structure around the original axia and got this:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/df67cbcd8f73cdd926aed734c4beb8fea0bc45ba3fc1e097dac593095d095860.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/df67cbcd8f73cdd926aed734c4beb8fea0bc45ba3fc1e097dac593095d095860.png)
 
 Stage 4:
 Here all I learnt was to transfrom the structure in the xyz plane.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/32323a40d3229bf8f49c686682a2028101ab9dd5ab44d5d492fc67e4f0a3e059.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/32323a40d3229bf8f49c686682a2028101ab9dd5ab44d5d492fc67e4f0a3e059.png)
 
 ### 2026-10-17 – Making a marble:
 
@@ -206,14 +206,14 @@ Even though I don't need to make a marble (I have some at home), I decided that 
 
 After measeuring the marbles I had at home with a vernier calliper, I measeured the ball was 13mm in diameter. Knowing this, I set the ball I am developing in CAD as 13mm to copy the exact dimensions.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/04427732ca37fb5eabfe009177740bebcccb2e13ce2039b7a71cfa0c9d622b11.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/04427732ca37fb5eabfe009177740bebcccb2e13ce2039b7a71cfa0c9d622b11.png)
 
 I then used the midpoint line tool to make a vertical line from the axia rather than use 2 lines of two points.
 
 Stage 3:
 I then revolved the ball around the axis using revolve:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/94f3cdb3ae36b21a18eca31b6c09d1bb007100a573e6d9006cb3a3b0e4c56f9b.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/94f3cdb3ae36b21a18eca31b6c09d1bb007100a573e6d9006cb3a3b0e4c56f9b.png)
 
 ### 2026-10-17 – This journal is the planning of the structure I am going to build for a merble run, and it's reasoning.
 
@@ -226,15 +226,15 @@ First thing that I did in my plan is throw out ideas I might have and know what 
 
 My first idea was a sort of pyramid or some looping cone:
 
-![1000101759](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/d815c91f407319504c4afd55802897ba5b1a91e5a7b17e8c9c1b9ff22af6dfac.jpg)
+![1000101759](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/d815c91f407319504c4afd55802897ba5b1a91e5a7b17e8c9c1b9ff22af6dfac.jpg)
 
 I also considered a back and forth stair case looking structure (not the part)
 
-![1000101763](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/617dd3d1109f800c8f41e5f9caa99abf09a9a121dd632df454742b521a0a70ed.jpg)
+![1000101763](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/617dd3d1109f800c8f41e5f9caa99abf09a9a121dd632df454742b521a0a70ed.jpg)
 
 The idea I ended with was just a sloped plane:
 
-![1000101764](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/2f5807125ecc976a51b9a06d4e16292cd9f405863692c9d98f591f0ad597b198.jpg)
+![1000101764](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/2f5807125ecc976a51b9a06d4e16292cd9f405863692c9d98f591f0ad597b198.jpg)
 
 The reason I chose a sloping plane was:
  - Firstly I planned to make this a display, and so realistically i will only see this from one view, so any intiricate detail would be les relavant.
@@ -248,7 +248,7 @@ The reason I chose a sloping plane was:
 
 This is the development of my actual project based on this image:
 
-![1000101764](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/2f5807125ecc976a51b9a06d4e16292cd9f405863692c9d98f591f0ad597b198.jpg)
+![1000101764](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/2f5807125ecc976a51b9a06d4e16292cd9f405863692c9d98f591f0ad597b198.jpg)
 
 Stage 1: Measurements
 There are a few things we will need to know before any designing gets put in. Namely requirements.
@@ -262,50 +262,50 @@ Requirements:
 
 Stage 1 (Sloped plane):
 Using what I learnt from earlier in the project I made a sloped plane:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/ce2dfcb2588b8a3346f09a0c2858feaf13a27360500e674629417491ea0afb05.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/ce2dfcb2588b8a3346f09a0c2858feaf13a27360500e674629417491ea0afb05.png)
 
 Stage 2: (Build Components):
 Because I put all the component I made before in other files (For cleanliness) I am going to have to rebuild some components in the new file.
 
 Funnel:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/02ba9f81dbdd837cb89bdcf784ec28e3b26b8c8e7501d0d971d48d8df4650761.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/02ba9f81dbdd837cb89bdcf784ec28e3b26b8c8e7501d0d971d48d8df4650761.png)
 
 New funnel:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/c85674709ca2c299f634b4779ee426bc423bebdf97b87a299ff6f2015d81a96b.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/c85674709ca2c299f634b4779ee426bc423bebdf97b87a299ff6f2015d81a96b.png)
 
 Funnel exit:
 To build this part I had to develop a new plane. To do this I used an offest to build one just below the funnel
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/7a013b61e85a51276f928eb51f6b82fef90f103d9a3cf29f02ac7a008e4e4abb.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/7a013b61e85a51276f928eb51f6b82fef90f103d9a3cf29f02ac7a008e4e4abb.png)
 
 This allows me to be able to develop the exit section of the funnel with a section below
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/230baad313387555e6ade305f5e51f8625ec440dfdf90b8902bd7bdcbcaa5c83.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/230baad313387555e6ade305f5e51f8625ec440dfdf90b8902bd7bdcbcaa5c83.png)
 
 This is the finished end section:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/944b78b1f86085ecb87b9bb4a8774df962b624b964cd6fc270b3d9bcd734ceae.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/944b78b1f86085ecb87b9bb4a8774df962b624b964cd6fc270b3d9bcd734ceae.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/8798233c7d6f7044bf247a4189422f4f6716df10b8e181fb4318e6842c39c792.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/8798233c7d6f7044bf247a4189422f4f6716df10b8e181fb4318e6842c39c792.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/67c806b3fbc4d5d0e2bdcb7df7cb6f7fa92648163a4ab42acf4bec874dbac238.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/67c806b3fbc4d5d0e2bdcb7df7cb6f7fa92648163a4ab42acf4bec874dbac238.png)
 
 2nd Plinko:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/3167f7451b58f928cea8ba701085349e660c5ef65e36fa88d6036839103b9a39.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/3167f7451b58f928cea8ba701085349e660c5ef65e36fa88d6036839103b9a39.png)
 
 Staircase:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/215e6199ca6440fb008eca452381c81e4e7fd564276f8a2a4912e933b51e2387.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/215e6199ca6440fb008eca452381c81e4e7fd564276f8a2a4912e933b51e2387.png)
 
 End Bowl:
 To make an end bowl. I will just make a basic circle on the bottom, fillet it and make an entrance which is 15x15.
 
 To make the entrance 15mm width I used the cosine rule.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/95b2cc3e1bd3bfe01eafcbb28631f5a34a470db62da6e81c64ba4f95027a120e.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/95b2cc3e1bd3bfe01eafcbb28631f5a34a470db62da6e81c64ba4f95027a120e.png)
 
 Now to fillet it:
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/5d09621d58bba48a612b142d98d0399fcd9c73a855cc95d9432a45f3ccfe4e17.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/5d09621d58bba48a612b142d98d0399fcd9c73a855cc95d9432a45f3ccfe4e17.png)
 
 ### 2026-10-17 – This part of the journal faced many problems.
 
@@ -319,14 +319,14 @@ However my pieces would not fit together as nice as I had hoped.
 
 I ended with this display of objects:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/b437e44cdc5f5242654b0741245b0a7286cf84a652882ed7c670c4c6aa3c4cb4.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/b437e44cdc5f5242654b0741245b0a7286cf84a652882ed7c670c4c6aa3c4cb4.png)
 
 After a bit more alligning
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/36246b0e1d3cf458bea0cc2008c0cde5958f56b7247749c34d5cde1d85c27b88.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/36246b0e1d3cf458bea0cc2008c0cde5958f56b7247749c34d5cde1d85c27b88.png)
 
 I just need to add 1 more track and this will be finished.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/fc9768b16c4625bbf071d4f4d0e43671ff8e738480d5ad223c16a1573d8e7762.png)
+![image](https://halflife.hackclub-assets.com/sessions/O3Acm6SNVObwxoygu6eLOTWIyDAUs5vl/fc9768b16c4625bbf071d4f4d0e43671ff8e738480d5ad223c16a1573d8e7762.png)
 
 This is the finished product (Without the structure)
 
